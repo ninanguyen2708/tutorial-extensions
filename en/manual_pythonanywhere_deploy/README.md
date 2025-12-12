@@ -1,3 +1,5 @@
+<Helpful document>
+    
 # Deploying to PythonAnywhere manually
 
 In the main tutorial, we deployed our app using PythonAnywhere's "autoconfigure" script, which did a lot of magic for us.  In this extension we'll take a peek "behind the scenes" and find out what autoconfigure script actually did, by learning how to deploy our code manually to PythonAnywhere.
